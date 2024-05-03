@@ -1,0 +1,12 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.counter {
+    font-size: 70px;
+}
+
+a.btn {
+    width: 70px;
+}
